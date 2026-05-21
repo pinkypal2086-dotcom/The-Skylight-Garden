@@ -1,0 +1,6 @@
+{
+  "name": "The Skylight Garden",
+  "description": "Premium rooftop fine-dining restaurant & bar at The Fern Residency in Chandigarh, India. Enjoy North Indian & global cuisine with panoramic city views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
